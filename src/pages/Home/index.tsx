@@ -1,6 +1,6 @@
 import React from "react"
 import { Button } from "antd"
-import Profile from "@/components/Profile"
+import Profile from "../../components/Profile"
 import { getVal } from "./util"
 import "./index.css"
 

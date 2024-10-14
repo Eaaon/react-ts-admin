@@ -1,4 +1,4 @@
-import { Navigate, createBrowserRouter, RouterProvider } from "react-router-dom"
+import { Navigate, createBrowserRouter } from "react-router-dom"
 import Home from "../pages/Home"
 import About from "../pages/About"
 import ErrorPage from "../pages/Error"

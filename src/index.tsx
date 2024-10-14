@@ -1,10 +1,10 @@
 import React from "react"
 import ReactDOM from "react-dom/client"
-import "@/css/index.css"
+import "./css/index.css"
 // import App from "./App"
 import reportWebVitals from "./reportWebVitals"
-import { ConfigProvider } from "antd"
-import { createBrowserRouter, RouterProvider, BrowserRouter } from "react-router-dom"
+// import { ConfigProvider } from "antd"
+import { RouterProvider } from "react-router-dom"
 import routes from './routes/index';
 
 const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement)
